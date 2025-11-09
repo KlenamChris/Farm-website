@@ -34,7 +34,7 @@ export default function Home() {
         </div>
       </div>
       <div className="absolute bottom-8 left-0 w-full flex justify-center">
-        <button className="flex items-center animate-bounce px-6 py-2 rounded-full bg-white/20 text-white duration-300 hover:bg-white/50 transition-all">
+        <button className="flex items-center animate-bounce px-6 py-2 rounded-full text-white duration-300 hover:bg-white/10 transition-all">
           <span className="mr-2 uppercase">Scroll</span>
           <ArrowDown className="w-4 h-4" />
         </button>
